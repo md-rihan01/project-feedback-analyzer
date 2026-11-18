@@ -4,11 +4,11 @@ A small customer feedback analyzer with a Streamlit dashboard and a FastAPI back
 
 ## Run after cloning
 
-Clone the GitHub repository, then change into its `code` directory. Replace `<repository-url>` with the URL shown on the repository's GitHub page:
+Clone the GitHub repository and change into the repository directory. Replace `<repository-url>` with the URL shown on the repository's GitHub page:
 
 ```bash
 git clone <repository-url>
-cd project-feedback-analyzer/code
+cd project-feedback-analyzer
 ```
 
 Install dependencies and configure the Gemini API key as described below. Start the API and dashboard in separate terminals using the commands in [Run the application](#run-the-application).
